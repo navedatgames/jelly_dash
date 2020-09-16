@@ -1061,7 +1061,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4715885752458654657}
   - component: {fileID: 2453515933897883470}
-  - component: {fileID: 1094554467728573891}
+  - component: {fileID: 1841281149373809579}
   m_Layer: 0
   m_Name: char 1
   m_TagString: Untagged
@@ -1122,7 +1122,7 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &1094554467728573891
+--- !u!114 &1841281149373809579
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1131,13 +1131,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 8586509354692854226}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 186e0ca2b86c9cd43a5544295293c815, type: 3}
+  m_Script: {fileID: 11500000, guid: 30e5fcdb3eec03240a2f029024fff298, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  yellow: {fileID: 2100000, guid: 6ab31005f2be97e4a87dc40c821926e8, type: 2}
   black: {fileID: 2100000, guid: 5aab00ef489ab934eb79250813f3435e, type: 2}
-  skin: {fileID: 2100000, guid: 85da0f80627ee974282f8c92e669f14d, type: 2}
+  yellow: {fileID: 2100000, guid: 6ab31005f2be97e4a87dc40c821926e8, type: 2}
   grey: {fileID: 2100000, guid: 4d18f9f15f977274ca0d28f10d190701, type: 2}
+  skin: {fileID: 2100000, guid: 85da0f80627ee974282f8c92e669f14d, type: 2}
 --- !u!1 &8633804883650050488
 GameObject:
   m_ObjectHideFlags: 0
